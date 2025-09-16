@@ -161,4 +161,12 @@ mvn test
 ## Database Script
 - File: `src/main/resources/tripdb.sql`
 - Contents create `tripdb` and table if you prefer manual creation. The app also auto-creates tables via JPA if `ddl-auto=update`.
+##Sceenshot
 
+![Dashboard ](trip-management/screenshot/1.png)
+![Dashboard ](trip-management/screenshot/2.png)
+![Dashboard ](trip-management/screenshot/3.png)
+![Dashboard ](trip-management/screenshot/4.png)
+![Dashboard ](trip-management/screenshot/5.png)
+![Dashboard ](trip-management/screenshot/6.png)
+![Dashboard ](trip-management/screenshot/7.png)
